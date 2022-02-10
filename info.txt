@@ -3,3 +3,36 @@ Yiğit İlk - 22101880
 My favourite videogame is Overwatch.
 
 This is the local info.txt file
+
+The following is the git log request from cmd:
+C:\Users\yigit\Documents\java\cs102\CS 102 Github Tutorial – Spring 2022>git log
+commit ab3b45c2478d17c1979253564f73854623c2df02 (HEAD -> main)
+Merge: 0ddb963 9f2ea20
+Author: yigitilk <yigitilk21@gmail.com>
+Date:   Thu Feb 10 09:43:00 2022 +0300
+
+    Merge branch 'new_information' into main
+
+commit 9f2ea20c31e4dab3f7c3ae4efce5744859faa479 (origin/new_information, new_information)
+Author: yigitilk <yigitilk21@gmail.com>
+Date:   Thu Feb 10 09:41:57 2022 +0300
+
+    added my favourite videogame
+
+commit fe8183a344664dfaaad57a4b7491b1691348fd62
+Author: yigitilk <yigitilk21@gmail.com>
+Date:   Thu Feb 10 09:27:44 2022 +0300
+
+    new_information branch checkout
+
+commit 0ddb96348f7a0c24814d91f40d3f11b75f8564de (origin/main)
+Author: yigitilk <yigitilk21@gmail.com>
+Date:   Thu Feb 10 09:24:11 2022 +0300
+
+    Name_of_the_student (Yiğit İlk) updated info.txt
+
+commit a74488ad8f345391e828e4eb3c9af6e1eeca174d
+Author: yigitilk <yigitilk21@gmail.com>
+Date:   Thu Feb 10 09:22:40 2022 +0300
+
+:
